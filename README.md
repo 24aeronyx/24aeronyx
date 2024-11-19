@@ -36,7 +36,7 @@ Welcome to my GitHub! I'm an Informatics student at **Institut Teknologi Kaliman
 
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=radical)](https://github.com/24aeronyx)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=24aeronyx&show_icons=true&count_private=true&theme=radical)](https://github.com/24aeronyx)
 
 ---
 
